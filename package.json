@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^6.0.13",
+    "react-native": "0.70.6",
+    "styled-components": "^5.3.6"
+  }
+}
